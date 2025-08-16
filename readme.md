@@ -47,3 +47,11 @@ Navigate through rooms, tap on devices, and toggle them on/off with a clean and 
 - **Smart Home Prototype** – Showcase GUI workflows before building hardware.  
 - **Educational Demo** – Teach embedded GUI design with TouchGFX.  
 - **Portfolio Project** – Highlight skills in STM32 & embedded systems.  
+
+---
+
+## 📸 Watch Video
+
+[ Sly Fox Electronics ] (https://www.youtube.com/@SlyFoxelectronics)
+
+

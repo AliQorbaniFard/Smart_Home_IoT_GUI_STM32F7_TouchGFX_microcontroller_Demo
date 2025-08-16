@@ -52,6 +52,6 @@ Navigate through rooms, tap on devices, and toggle them on/off with a clean and 
 
 ## 📸 Watch Video
 
-[ Sly Fox Electronics ] (https://www.youtube.com/@SlyFoxelectronics)
+[Sly Fox Electronics] (https://www.youtube.com/@SlyFoxelectronics)
 
 
